@@ -1,8 +1,19 @@
 Do the following First :-
 
 1.npm install --save axios
+
+
+
 2.npm install @material-ui/core
+
+
+
 3.Generate API Key from https://console.developers.google.com
+
+
+
+4.How would we go on about hiding the API Key?
+-You can create an .env file and store the key in there (refer my Code).
 
 
 
